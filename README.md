@@ -1,4 +1,4 @@
-# aplikasi_uts
+# UTS Pemrograman berbasis platform
 
 A new Flutter project.
 
